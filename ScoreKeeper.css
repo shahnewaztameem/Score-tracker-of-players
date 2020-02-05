@@ -1,0 +1,15 @@
+body {
+	font-family: 'Lato', sans-serif;
+	background: #673AB6;
+	color: #fff;
+}
+h1 {
+	font-size: 5em;
+	font-weight: bold;
+}
+.centered {
+	padding-top: 250px;
+}
+.winner {
+	color: #e35586
+}
